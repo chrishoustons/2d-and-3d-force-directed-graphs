@@ -1,0 +1,51 @@
+﻿id,name,wikiLink,translation,notes,launched
+1,Mir Core Module,Mir_Core_Module,,,1986-02-20
+2,Kvant-1,Kvant-1,"""Quantum-1""",,1987-03-31
+3,Kvant-2,Kvant-2,"""Quantum-2""",,1989-11-26
+4,Kristall,Kristall,"""Crystal""",,1990-05-31
+5,Spektr,Spektr,"""Spectrum""",Rendered unusable after a collision with the Progress M-34 in 1997,1995-05-20
+6,Docking Module,Mir_Docking_Module,,,1995-11-12
+7,Priroda,Priroda,"""Nature""",,1996-04-23
+8,Zarya,Zarya,"""Dawn"" (Metaphorical Beginning)",Initial component of the ISS,1998-11-20
+9,Unity (Node 1),Unity_(ISS_module),,Six-way connection module,1998-12-04
+10,PMA-1,Pressurized_Mating_Adapter#PMA-1,,Adapter from CBM to APAS-95 docking ports,1998-12-04
+11,PMA-2,Pressurized_Mating_Adapter#PMA-2,,Adapter from CBM to APAS-95 docking ports,1998-12-04
+12,Zvezda,Zvezda_(ISS_module),"""Star""",Life support and living quarters,2000-07-12
+13,PMA-3,Pressurized_Mating_Adapter#PMA-3,,Adapter from CBM to APAS-95 docking ports,2000-10-11
+14,Z1 Truss,Integrated_Truss_Structure#Z1_truss,,Part of truss structure for solar arrays and radiators,2000-10-11
+15,P6 Truss and Solar Arrays,"Integrated_Truss_Structure#P6,_S6_trusses",,Part of truss structure for solar arrays and radiators,2000-11-30
+16,Destiny,Destiny_(ISS_module),,United States scientific research module,2001-02-07
+17,ESP-1,External_stowage_platform#ESP-1,,Unpressurised payload platform,2001-03-08
+18,Canadarm2,Mobile_Servicing_System#Canadarm2,,Robotic arm for space station assembly and maintenance,2001-04-19
+19,Quest Joint Airlock,Quest_Joint_Airlock,,Airlock,2001-07-12
+20,Pirs,Pirs_(ISS_module),"""Piers""",Docking port,2001-09-14
+21,S0 Truss,Integrated_Truss_Structure#S0_truss,,Part of truss structure for solar arrays and radiators,2002-04-08
+22,Mobile Base System,Mobile_Servicing_System#Mobile_Base_System,,Base platform for robotic arms,2002-06-05
+23,S1 Truss,"Integrated_Truss_Structure#P1,_S1_trusses",,Part of truss structure for solar arrays and radiators,2002-10-07
+24,P1 Truss,"Integrated_Truss_Structure#P1,_S1_trusses",,Part of truss structure for solar arrays and radiators,2002-11-23
+25,ESP-2,External_stowage_platform#ESP-2,,Unpressurised payload platform,2005-07-26
+26,P3/P4 Truss & Solar Arrays,"Integrated_Truss_Structure#P3/P4,_S3/S4_truss_assemblies",,Part of truss structure for solar arrays and radiators,2006-09-09
+27,P5 Truss,"Integrated_Truss_Structure#P5,_S5_trusses",,Part of truss structure for solar arrays and radiators,2006-12-09
+28,S3/S4 Truss & Solar Arrays,"Integrated_Truss_Structure#P3/P4,_S3/S4_truss_assemblies",,Part of truss structure for solar arrays and radiators,2007-06-08
+29,S5 Truss,"Integrated_Truss_Structure#P5,_S5_trusses",,Part of truss structure for solar arrays and radiators,2007-08-08
+30,ESP-3,External_stowage_platform#ESP-3,,Unpressurised payload platform,2007-08-08
+31,Harmony (Node 2),Harmony_(ISS_module),,Six-way connection module,2007-10-23
+32,Columbus ,Columbus_(ISS_module),,European scientific research module,2008-02-07
+33,Dextre (SPDM),Dextre,,Two armed robot for space station assembly and maintenance,2008-03-11
+34,Experiment Logistics Module (ELM),Kibo_(ISS_module)#Experiment_logistics_module,"""Hope""",Part of Japanese scientific research module,2008-03-11
+35,JEM Pressurized Module (JEM-PM),Kibo_(ISS_module)#Pressurized_module,"""Hope""",Part of Japanese scientific research module,2008-05-31
+36,JEM Remote Manipulator System (JEMRMS),Kibo_(ISS_module)#Remote_manipulator_system,"""Hope""",Part of Japanese scientific research module,2008-05-31
+37,S6 Truss & Solar Arrays,"Integrated_Truss_Structure#P6,_S6_trusses",,Part of truss structure for solar arrays and radiators,2009-03-15
+38,Kibo Exposed Facility (JEM-EF),Kibo_(ISS_module)#Exposed_facility,"""Hope""",Part of Japanese scientific research module,2009-07-15
+39,Poisk (MRM-2),Poisk_(ISS_module),Search,Docking module,2009-11-10
+40,ELC-1,ExPRESS_Logistics_Carrier#ELC-1,,Unpressurised payload platform,2009-11-16
+41,ELC-2,ExPRESS_Logistics_Carrier#ELC-2,,Unpressurised payload platform,2009-11-16
+42,Tranquility (Node 3),Tranquility_(ISS_module),,Six-way connection module,2010-02-08
+43,Cupola,Cupola_(ISS_module),"""Dome""",Viewing window,2010-02-08
+44,Rassvet (MRM-1),Rassvet_(ISS_module),"""Dawn""(Literal)",Cargo storage and docking port,2010-05-14
+45,Leonardo (PMM),Leonardo_(ISS_module),,Storage,2011-02-24
+46,ELC-4,ExPRESS_Logistics_Carrier#ELC-4,,Unpressurised payload platform,2011-02-24
+47,AMS-02,Alpha_Magnetic_Spectrometer#AMS-02,,Cosmic ray detector,2011-05-16
+48,ELC-3,ExPRESS_Logistics_Carrier#ELC-3,,Unpressurised payload platform,2011-05-16
+49,BEAM,Bigelow_Expandable_Activity_Module,,Experimental inflatable space habitat,2016-04-08
+50,IDA-2,International_Docking_Adapter#IDA-2,,Adapter from the APAS-95 to NASA/ International Docking System,2016-07-18

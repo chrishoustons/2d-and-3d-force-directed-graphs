@@ -1,0 +1,17 @@
+﻿id,name,notes,firstFlight,lastFlight,wikiLink,launches,failures,successes,reusable,isRocket
+1,Vostok-K,Derived from the R-7 Semyorka ICBM,1960-12-22,1964-07-10,Vostok-K,13,2,11,FALSE,TRUE
+2,Mercury-Redstone,Derived from the Redstone ballistic missile,1960-11-21,1961-07-21,Mercury-Redstone_Launch_Vehicle,6,1,5,FALSE,TRUE
+3,Atlas-LV3B,Derived from the SM-65D Atlas ICBM,1960-07-29,1963-05-15,Atlas_LV-3B,9,2,7,FALSE,TRUE
+4,X-15,Hypersonic rocket-powered aircraft,1959-03-10,1968-12-12,North_American_X-15,336,1,335,FALSE,FALSE
+5,Voskhod,Derived from the R-7 Semyorka ICBM,1963-11-16,1976-06-29,Voskhod_(rocket),300,13,287,FALSE,TRUE
+6,Titan II GLV,Derivative of Titan II ICBM,1964-04-08,1966-11-11,Titan_II_GLV,12,0,12,FALSE,TRUE
+7,Soyuz,Derived from the R-7 Semyorka ICBM,1966-11-28,1976-10-14,Soyuz_(rocket),32,2,30,FALSE,TRUE
+8,Saturn IB,Derived from Saturn I Satellite Launcher,1966-02-26,1975-07-15,Saturn_IB,9,0,9,FALSE,TRUE
+9,Saturn V,Most powerful launch vehicle ever created,1967-11-09,1973-05-14,Saturn_V,13,1,12,FALSE,TRUE
+10,Proton-K,Derived from the Proton,1967-03-10,2012-03-30,Proton-K,311,36,275,FALSE,TRUE
+11,Soyuz-U,Upgraded version of Soyuz,1973-05-18,2017-02-22,Soyuz-U,786,22,764,FALSE,TRUE
+12,Space Shuttle,First partially reusable launch system,1981-04-12,2011-06-21,Space_Shuttle,135,2,133,TRUE,TRUE
+13,Soyuz-U2,Upgraded version of Soyuz-U,1982-12-23,1995-09-03,Soyuz-U2,72,0,72,FALSE,TRUE
+14,Soyuz-FG,Upgraded version of Soyuz-U,2001-05-20,2019-09-25,Soyuz-FG,68,1,67,FALSE,TRUE
+15,Long March 2F,Derived from Long March 2E,1999-11-19,,Long_March_2F,13,0,13,FALSE,TRUE
+16,Falcon 9,First stage capable of re-entry and landing,2010-06-04,,Falcon_9,72,2,70,TRUE,TRUE

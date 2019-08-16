@@ -1,0 +1,16 @@
+﻿id,programName,goal,translation,wikiLink
+1,Vostok,Launch a man in low Earth orbit and return them safely to Earth,Orient or East,Vostok_programme
+2,Project Mercury,Launch a man in to low Earth orbit and return them safely to Earth,,Project_Mercury
+3,X-15,Design and test an aircraft to research manned hypersonic atmospheric and spaceflight,,North_American_X-15
+4,Voskhod,Pre-empt Project Gemini with multi-crew orbital spaceflights,Ascent or Dawn,Voskhod_programme
+5,Project Gemini,"Prepare techniques necessary for Lunar voyages, such as long duration trips, docking, multiple crew members, and EVAs",,Project_Gemini
+6,Soyuz,"Originally an attempt to land a man on the Moon and return them safely to Earth, continues as a manned low-earth orbital spacecraft",Union; Often used as shorthand for the CCCP,Soyuz_programme
+7,Apollo,Land a man on the Moon and return them safely to Earth,,Apollo_program
+8,Space Shuttle,Create a reusable launch system for low Earth orbital excursions,,Space_Shuttle_program
+9,Salyut,Research problems of living long-term in space by launching and inhabiting satellites,Salute or Fireworks,Salyut
+10,Skylab,Conduct microgravity and solar observations in orbit,,Skylab
+11,Mir,Create a modular space station in orbit,Peace or World,Mir
+12,International Space Station,"Create a large modular laboratory, observatory and factory in low Earth orbit, serve as a staging area for manned missions to the Moon, Mars or Asteroids",,International_Space_Station_program
+13,Shenzhou,Create a manned low-earth orbital spacecraft,Divine Vessel,Shenzhou_program
+14,Tiangong,Create a modular space station in orbit,Heavenly Palace,Tiangong_program
+15,Apollo-Soyuz Test Project,Rendezvous and dock Soviet and American spacecraft,,

@@ -1,0 +1,13 @@
+﻿id,name,wikiLink,notes,launched,reentry,modular
+1,Salyut 1,Salyut_1,First Space Station,1971-04-19,1971-10-11,FALSE
+2,Skylab,Skylab,First American Space Station,1973-05-14,1979-07-11,FALSE
+3,Salyut 2,Salyut_2,"Also referred to as ""Kosmos 557"", by Soviets to deny failure of another Salyut",1973-04-03,1973-05-28,FALSE
+4,Salyut 3,Salyut_3,First station to maintain orientation relative to Earth,1974-06-25,1975-01-24,FALSE
+5,Salyut 4,Salyut_4,,1974-12-26,1977-02-03,FALSE
+6,Salyut 5,Salyut_5,,1976-06-22,1977-08-08,FALSE
+7,Salyut 6,Salyut_6,"First station with two docking ports, allowing resupply from Earth",1977-09-29,1982-07-29,FALSE
+8,Salyut 7 ,Salyut_7,,1982-04-19,1991-02-07,FALSE
+9,Mir,Mir,First modular space station,1986-02-20,2001-03-23,TRUE
+10,International Space Station,International_Space_Station,"Largest ever modular space station, longest lived",1998-11-20,,TRUE
+11,Tiangong-1,Tiangong-1,First Chinese space station,2011-09-29,2018-04-02,FALSE
+12,Tiangong-2,Tiangong-2,,2016-09-15,,FALSE

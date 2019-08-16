@@ -1,0 +1,60 @@
+﻿id,name,startDateTime,endDateTime,type,wikiLink,notes
+1,Vostok 1,1961-04-12T0607Z,1961-04-12T0755Z,Low Earth Orbit,Vostok_1,First manned Earth orbit
+2,Mercury-Redstone 3,1961-05-05T1434Z,1961-05-05T1449Z,Sub-Orbital,Mercury-Redstone_3,First American sub-orbital space flight
+3,Mercury-Redstone 4,1961-07-21T1220Z,1961-07-21T1236Z,Sub-Orbital,Mercury-Redstone_4,
+4,Vostok 2,1961-08-06T0600Z,1961-08-07T0718Z,Low Earth Orbit,Vostok_2,
+5,Mercury-Atlas 6,1962-02-20T1447Z,1962-02-20T1943Z,Low Earth Orbit,Mercury-Atlas_6,First American orbital space flight
+6,Mercury-Atlas 7,1962-05-24T1245Z,1962-05-24T1741Z,Low Earth Orbit,Mercury-Atlas_7,
+7,Vostok 3,1962-08-11T0830Z,1962-08-15T0652Z,Low Earth Orbit,Vostok_3,
+8,Vostok 4,1962-08-12T0802Z,1962-08-15T0659Z,Low Earth Orbit,Vostok_4,
+9,Mercury-Atlas 8,1962-10-03T1215Z,1962-10-03T2128Z,Low Earth Orbit,Mercury-Atlas_8,
+10,Mercury-Atlas 9,1962-05-15T1304Z,1962-05-16T2324Z,Low Earth Orbit,Mercury-Atlas_9,
+11,Vostok 5,1963-06-14T1158Z,1963-06-19T1106Z,Low Earth Orbit,Vostok_5,
+12,Vostok 6,1963-06-16T0929Z,1963-06-19T0820Z,Low Earth Orbit,Vostok_6,
+13,X-15 Flight 90,1963-07-19T1820Z,1963-07-19T1831Z,Sub-Orbital,X-15_Flight_90,First spaceplane flight
+14,X-15 Flight 91,1963-08-22T1805Z,1963-08-22T1817Z,Sub-Orbital,X-15_Flight_91,
+15,Voskhod 1,1964-10-12T0730Z,1964-10-13T0747Z,Low Earth Orbit,Voskhod_1,
+16,Voskhod 2,1965-03-18T0700Z,1965-03-19T0902Z,Low Earth Orbit,Voskhod_2,First spacewalk
+17,Gemini 3,1965-03-23T1424Z,1965-03-23T1916Z,Low Earth Orbit,Gemini_3,
+18,Gemini IV,1965-06-03T1515Z,1965-06-07T1712Z,Low Earth Orbit,Gemini_4,First American spacewalk
+19,Gemini V,1965-08-21T1359Z,1965-08-29T1255Z,Low Earth Orbit,Gemini_5,
+20,Gemini VII,1965-12-04T1930Z,1965-12-18T1405Z,Low Earth Orbit,Gemini_7,
+21,Gemini VI-A,1965-12-15T1337Z,1965-12-16T1528Z,Low Earth Orbit,Gemini_6A,
+22,Gemini VIII,1966-03-16T1641Z,1966-03-17T0322Z,Low Earth Orbit,Gemini_8,
+23,Gemini IX-A,1966-03-06T1339Z,1966-06-06T1400Z,Low Earth Orbit,Gemini_9A,
+24,Gemini X,1966-07-18T2220Z,1966-07-21T2107Z,Low Earth Orbit,Gemini_10,
+25,Gemini XI,1966-09-12T1442Z,1966-09-15T1359Z,Low Earth Orbit,Gemini_11,
+26,Gemini XII,1966-11-11T2046Z,1966-11-15T1921Z,Low Earth Orbit,Gemini_12,
+27,Soyuz 1,1967-04-23T0035Z,1967-04-24T0322Z,Low Earth Orbit,Soyuz_1,Crew died when parachutes did not open
+28,Apollo 7,1968-10-11T1502Z,1968-10-22T1111Z,Low Earth Orbit,Apollo_7,
+29,Soyuz 3,1968-10-26T0834Z,1968-10-30T0725Z,Low Earth Orbit,Soyuz_3,
+30,Apollo 8,1968-12-21T1251Z,1968-12-27T1551Z,Lunar Orbit,Apollo_8,First manned Lunar orbit
+31,Soyuz 4,1969-01-14T0730Z,1969-01-17T0650Z,Low Earth Orbit,Soyuz_4,First rendezvous and docking
+32,Soyuz 5,1969-01-15T0704Z,1969-01-18T0759Z,Low Earth Orbit,Soyuz_5,First rendezvous and docking
+33,Apollo 9,1969-03-03T1600Z,1969-03-13T1700Z,Low Earth Orbit,Apollo_9,First rendezvous and docking with a Lunar lander
+34,Apollo 10,1969-05-18T1649Z,1969-05-26T1652Z,Lunar Orbit,Apollo_10,
+35,Apollo 11,1969-07-16T1332Z,1969-07-24T1650Z,Lunar Landing,Apollo_11,First manned Lunar landing
+36,Soyuz 6,1969-10-11T1110Z,1969-10-16T0952Z,Low Earth Orbit,Soyuz_6,Aborted rendezvous and docking
+37,Soyuz 7,1969-10-12T1044Z,1969-10-17T0925Z,Low Earth Orbit,Soyuz_7,Aborted rendezvous and docking
+38,Soyuz 8,1969-10-13T1019Z,1969-10-18T0909Z,Low Earth Orbit,Soyuz_8,Aborted rendezvous and docking
+39,Apollo 12,1969-11-14T1622Z,1969-11-24T2058Z,Lunar Landing,Apollo_12,
+40,Apollo 13,1970-04-11T1913Z,1970-04-17T1807Z,Lunar Landing - Aborted,Apollo_13,"Following explosion on second day of mission, critically damaging the service module, Lunar landing aborted. Miraculously, all astronauts returned safely to Earth"
+41,Soyuz 9,1970-06-01T1900Z,1970-06-19T1158Z,Low Earth Orbit,Soyuz_9,First night launch
+42,Apollo 14,1971-01-31T2103Z,1971-02-09T2105Z,Lunar Landing,Apollo_14,
+43,Soyuz 10,1971-04-22T2354Z,1971-04-24T2340Z,Space Station Rendezvous - Aborted,Soyuz_10,
+44,Soyuz 11,1971-06-06T0455Z,1971-06-29T2316Z,Space Station Rendezvous,Soyuz_11,"First space station rendezvous and docking; crew perished from asphyxiation, only people to die in space"
+45,Apollo 15,1971-07-26T1334Z,1971-08-07T2045Z,Lunar Landing,Apollo_15,First use of a lunar roving vehicle (LRV)
+46,Apollo 16,1972-04-16T1754Z,1972-04-27T1945Z,Lunar Landing,Apollo_16,
+47,Apollo 17,1972-12-07T0533Z,1972-12-19T1924Z,Lunar Landing,Apollo_17,Last manned Lunar landing
+48,Skylab 2,1973-05-25T1300Z,1973-06-22T1349Z,Space Station Rendezvous,Skylab_2,First American space station rendezvouz and docking
+49,Skylab 3,1973-07-28T1110Z,1973-09-25T2219Z,Space Station Rendezvous,Skylab_3,
+50,Soyuz 12,1973-09-27T1218Z,1973-09-29T1133Z,Low Earth Orbit,Soyuz_12,
+51,Skylab 4,1973-11-16T1401Z,1974-02-08T1516Z,Space Station Rendezvous,Skylab_4,Longest manned US flight
+52,Soyuz 13,1973-12-18T1155Z,1973-12-26T0850Z,Low Earth Orbit,Soyuz_13,
+53,Soyuz 14,1974-07-03T1851Z,1974-07-19T1221Z,Space Station Rendezvous,Soyuz_14,
+54,Soyuz 15,1974-08-26T1958Z,1974-08-28T2010Z,Space Station Rendezvous - Aborted,Soyuz_15,
+55,Soyuz 16,1974-12-02T0940Z,1974-12-08T0803Z,Low Earth Orbit,Soyuz_16,
+56,Soyuz 17,1975-01-10T2143Z,1975-02-09T1103Z,Space Station Rendezvous,Soyuz_17,
+57,Soyuz 18,1975-05-24T1458Z,1975-07-26T1418Z,Space Station Rendezvous,Soyuz_18,
+58,Soyuz 19 EPAS,1975-07-15T1220Z,1975-07-21T1050Z,Low Earth Orbit,Apollo–Soyuz_Test_Project,First Soviet/American rendezvous and docking
+59,ASTP,1975-07-15T1950Z,1975-07-21T2118Z,Low Earth Orbit,Apollo–Soyuz_Test_Project,First Soviet/American rendezvous and docking

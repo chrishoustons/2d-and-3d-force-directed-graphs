@@ -1,0 +1,79 @@
+﻿id,firstName,middleNames,surname,nickname,dob,uniqueAchievement,wikiLink
+1,Yuri,Alekseyevich,Gagarin,,1934-03-09,First man in space,Yuri_Gagarin
+2,Alan,Bartlett,Shepard,,1923-11-18,First American in space,Alan_Shepard
+3,Virgil ,Ivan,Grissom,Gus,1926-04-03,Died in Apollo 1 fire,Gus_Grissom
+4,Gherman,Stepanovich,Titov,,1935-09-11,,Gherman_Titov
+5,John,Herschel,Glenn,,1921-07-18,,John_Glenn
+6,Malcolm,Scott,Carpenter,,1925-05-01,,Scott_Carpenter
+7,Pavel,Romanovich,Popovich,,1930-10-05,,Pavel_Popovich
+8,Andriyan,Grigoriyevich,Nikolayev,,1929-09-05,,Andriyan_Nikolayev
+9,Walter,Marty,Schirra,Wally,1923-03-12,,Wally_Schirra
+10,Leroy,Gordon,Cooper,Gordo,1927-03-06,,Gordon_Cooper
+11,Valeri,Fyodorovich,Bykovsky,,1934-08-02,,Valeri_Bykovsky
+12,Valentina,Vladimirovna,Tereshkova,,1937-03-06,First woman in space,Valentina_Tereshkova
+13,Joseph,Albert,Walker,,1921-02-20,First person to fly in to space twice,Joseph_A._Walker
+14,Konstantin ,Petrovich,Feoktistov,,1926-02-07,,Konstantin_Feoktistov
+15,Vladimir ,Mikhailovich,Komarov,,1927-03-16,First human to die in spaceflight,Vladimir_Komarov
+16,Boris ,Borisovich,Yegorov,,1937-11-26,,Boris_Yegorov
+17,Pavel ,Ivanovich,Belyayev,,1925-06-26,,Pavel_Belyayev
+18,Aleksei ,Arkhipovich,Leonov,,1934-05-30,First man to conduct an EVA,Aleksei_Leonov
+19,John ,Watts,Young,,1930-09-24,,John_Young_(astronaut)
+20,James ,Alton,McDivitt,,1929-06-10,,James_McDivitt
+21,Edward,Higgins,White,Ed,1930-11-14,First American to conduct an EVA,Ed_White_(astronaut)
+22,Charles,,Conrad,Pete,1930-06-02,,Pete_Conrad
+23,Frank,Frederick ,Borman,,1928-03-14,,Frank_Borman
+24,James ,Arthur,Lovell,Jim,1928-03-25,,Jim_Lovell
+25,Thomas,Patten,Stafford,,1930-09-17,,Thomas_P._Stafford
+26,Neil,Alden,Armstrong,,1930-08-05,First man on the Moon,Neil_Armstrong
+27,Eugene ,Andrew,Cernan,,1934-03-14,,Gene_Cernan
+28,Michael,,Collins,,1930-10-31,,Michael_Collins_(astronaut)
+29,Richard ,Francis,Gordon,Dick,1929-10-05,,Richard_F._Gordon_Jr.
+30,Edwin ,Eugene ,Aldrin,Buzz,1930-01-20,Second man on the Moon,Buzz_Aldrin
+31,Ronnie,Walter,Cunningham,Walter,1932-03-16,,Walter_Cunningham
+32,Donn ,Fulton,Eisele,,1930-06-23,,Donn_F._Eisele
+33,Georgy,Timofeyevich,Beregovoy,,1921-04-15,,Georgy_Beregovoy
+34,William,Allison,Anders,,1933-10-17,Took the famous 'Earthrise' photograph,William_Anders
+35,Yevgeni,Vasiliyevich,Khrunov,,1933-09-10,,Yevgeni_Khrunov
+36,Vladimir,Aleksandrovich,Shatalov,,1927-12-08,,Vladimir_Shatalov
+37,Boris,Valentinovich,Volynov,,1934-12-18,,Boris_Volynov
+38,Aleksei,Stanislavovich,Yeliseyev,,1934-07-13,,Aleksei_Yeliseyev
+39,Russell,Louis,Schweickart, Rusty,1935-10-25,,Rusty_Schweickart
+40,David ,Randolph,Scott,,1932-06-06,,David_Scott
+41,Anatoly,Vasiliyevich,Filipchenko,,1928-02-26,,Anatoly_Filipchenko
+42,Viktor,Vasiliyevich,Gorbatko,,1934-12-03,,Viktor_Gorbatko
+43,Valeri,Nikolayevich,Kubasov,,1935-01-07,,Valeri_Kubasov
+44,Georgy,Stepanovich,Shonin,,1935-08-03,,Georgy_Shonin
+45,Vladislav ,Nikolayevich,Volkov,,1935-11-23,Died in Soyuz 11 Disaster,Vladislav_Volkov
+46,Alan ,LaVern,Bean,,1932-03-15,,Alan_Bean
+47,Fred,Wallace,Haise,,1933-11-14,,Fred_Haise
+48,John,Leonard,Swigert,Jack,1931-08-30,,Jack_Swigert
+49,Vitaly,Ivanovich,Sevastyanov,,1935-07-08,,Vitaly_Sevastyanov
+50,Edgar,Dean,Mitchell,Ed,1930-09-17,,Edgar_Mitchell
+51,Stuart,Allen,Roosa,Stu,1933-08-16,,Stuart_Roosa
+52,Nikolai,Nikolayevich,Rukavishnikov,,1932-09-18,,Nikolai_Rukavishnikov
+53,Georgy,Timofeyevich,Dobrovolsky,,1928-06-01,Died in Soyuz 11 Disaster,Georgy_Dobrovolsky
+54,Viktor,Ivanovich,Patsayev,,1933-06-19,Died in Soyuz 11 Disaster,Viktor_Patsayev
+55,James,Benson,Irwin,,1930-03-17,,James_Irwin
+56,Alfred,Merrill,Worden,,1932-02-07,,Alfred_Worden
+57,Charles,Moss,Duke,Chuck,1935-10-03,,Charles_Duke
+58,Thomas ,Kenneth,Mattingly,Ken,1936-03-17,,Ken_Mattingly
+59,Ronald ,Ellwin,Evans,Ron,1933-11-10,,Ronald_Evans_(astronaut)
+60,Harrison ,Hagan,Schmitt,Jack,1935-07-03,Last man on the Moon,Harrison_Schmitt
+61,Joseph,Peter,Kerwin,,1932-02-19,,Joseph_Kerwin
+62,Paul,Joseph,Weitz,,1932-07-25,,Paul_J._Weitz
+63,Owen,Kay,Garriott,,1930-11-22,,Owen_Garriott
+64,Jack,Robert,Lousma,,1936-02-29,,Jack_Lousma
+65,Vasily,Grigoriyevich,Lazarev,,1928-02-23,,Vasily_Lazarev
+66,Oleg,Grigoriyevich,Makarov,,1933-01-06,,Oleg_Grigoryevich_Makarov
+67,Gerald,Paul,Carr,Jerry,1932-08-22,,Gerald_Carr_(astronaut)
+68,Edward,George,Gibson,,1936-11-08,,Edward_Gibson
+69,William,Reid,Pogue,,1930-01-23,,William_R._Pogue
+70,Pyotr,Ilyich,Klimuk,,1942-07-10,,Pyotr_Klimuk
+71,Valentin,Vitalyevich,Lebedev,,1942-04-14,,Valentin_Lebedev
+72,Yuri,Petrovich,Artyukhin,,1930-06-22,,Yuri_Artyukhin
+73,Gennadi,Vasiliyevich,Sarafanov,,1942-01-01,,Gennady_Sarafanov
+74,Lev ,Stepanovich,Dyomin,,1926-01-11,,Lev_Dyomin
+75,Aleksei,Aleksandrovich,Gubarev,,1931-03-29,,Aleksei_Gubarev
+76,Georgy,Mikhailovich,Grechko,,1931-05-25,,Georgy_Grechko
+77,Vance,DeVoe,Brand,,1931-05-09,,Vance_D._Brand
+78,Donald,Kent,Slayton,Deke,1924-03-01,,Deke_Slayton
